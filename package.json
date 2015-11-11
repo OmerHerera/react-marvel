@@ -1,6 +1,6 @@
 {
   "name": "react-marvel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "start using react, reacting :-) and MARVEL open API",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OmerHerera/react"
+    "url": "https://github.com/OmerHerera/react-marvel"
   },
   "keywords": [
     "react",
