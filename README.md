@@ -10,6 +10,8 @@
 
 All the marvel data is fetched from MARVEL, using their open API, here is more about it, [MARVEL open API](http://developer.marvel.com/), the appliuaction was builded using [react](https://facebook.github.io/react/).
 
+Live Example [here](http://omerherera.github.io/react-marvel/)
+
 Here are some screen shots:
 ![image](./assets/first.png)
 
