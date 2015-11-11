@@ -13,6 +13,6 @@ All the marvel data is fetched from MARVEL, using their open API, here is more a
 Live Example [here](http://omerherera.github.io/react-marvel/)
 
 Here are some screen shots:
-![image](./assets/first.png)
+![image](https://cloud.githubusercontent.com/assets/5514007/11102168/a4d7276a-88c3-11e5-9fc1-324634b65f30.png)
 
-![image](./assets/second.png)
+![image](https://cloud.githubusercontent.com/assets/5514007/11102169/a4d7cf44-88c3-11e5-8dc9-ffb720cceabd.png)

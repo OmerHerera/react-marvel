@@ -1,6 +1,6 @@
 {
   "name": "react-marvel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "start using react, reacting :-) and MARVEL open API",
   "main": "index.js",
   "scripts": {
@@ -24,9 +24,9 @@
   "author": "omher",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OmerHerera/react/issues"
+    "url": "https://github.com/OmerHerera/react-marvel/issues"
   },
-  "homepage": "https://github.com/OmerHerera/react",
+  "homepage": "https://github.com/OmerHerera/react-marvel",
   "dependencies": {
     "bootstrap": "~3.3.5",
     "browserify": "~12.0.1",
