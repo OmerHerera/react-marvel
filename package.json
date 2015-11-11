@@ -1,0 +1,48 @@
+{
+  "name": "react-marvel",
+  "version": "1.0.0",
+  "description": "start using react, reacting :-) and MARVEL open API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmerHerera/react"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "reacting",
+    "htm",
+    "SPA",
+    "MARVEL",
+    "marvel",
+    "REACT",
+    "REACTJS"
+  ],
+  "author": "omher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerHerera/react/issues"
+  },
+  "homepage": "https://github.com/OmerHerera/react",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "browserify": "~12.0.1",
+    "history": "~1.13.0",
+    "jquery": "~2.1.4",
+    "react": "~0.14.2",
+    "react-dom": "~0.14.2",
+    "react-router": "~1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-available-tasks": "~0.6.1",
+    "grunt-browserify": "~4.0.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-react": "~0.12.3",
+    "load-grunt-config": "~0.19.0",
+    "time-grunt": "~1.2.2"
+  }
+}
